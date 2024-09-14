@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b98abb7d-2d31-34d3-6bd3-d9fac7066915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphAndChart", "GraphAndChart.csproj", "{ad5e3170-6ef8-38d4-bace-25ebab13ec54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitsplash.GraphAndChart.Editor", "Bitsplash.GraphAndChart.Editor.csproj", "{3aae004f-4c42-4047-dabf-13e09867887c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{172d39f1-2b30-4f24-55b4-ed63a1d4525a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b98abb7d-2d31-34d3-6bd3-d9fac7066915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b98abb7d-2d31-34d3-6bd3-d9fac7066915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ad5e3170-6ef8-38d4-bace-25ebab13ec54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ad5e3170-6ef8-38d4-bace-25ebab13ec54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3aae004f-4c42-4047-dabf-13e09867887c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3aae004f-4c42-4047-dabf-13e09867887c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172d39f1-2b30-4f24-55b4-ed63a1d4525a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172d39f1-2b30-4f24-55b4-ed63a1d4525a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
